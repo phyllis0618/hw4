@@ -1,0 +1,5 @@
+tmp1=rand()
+tmp2=rand()
+r=sqrt(-2*log(tmp1))
+x1=r*sin(tmp2/(2*pi))
+x2=r*cos(tmp2/(2*pi))
